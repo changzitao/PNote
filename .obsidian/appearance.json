@@ -1,0 +1,11 @@
+{
+  "accentColor": "#da73f7",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "notation-colour-blocks"
+  ],
+  "translucency": false,
+  "showViewHeader": false,
+  "nativeMenus": false
+}

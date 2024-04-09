@@ -1,0 +1,8 @@
+{
+  "minimal-style@@blockquote-font-style": "italic",
+  "minimal-style@@pdf-page-style": "pdf-shadows-on",
+  "things-style@@mobile-black-background": false,
+  "things-style@@floating-button-off": false,
+  "things-style@@active-line": true,
+  "things-style@@default-font-color": true
+}

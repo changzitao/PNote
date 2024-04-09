@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "ab2264c48656171d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e39f971f0b9dcf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7031e0f354081c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c60f29502896ffbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0447ab70a262c343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3435b494cd7a00d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "580a42a543f45832",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21b27c890cf94c59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd40e859909b5334",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0c5c1949b13c3bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "795d4c02c8fc2601",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f004152729b7e0fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4baa427017786bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "529cc77b565d4423",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.md"
+              }
+            }
+          },
+          {
+            "id": "5e5e1b6e4c862f64",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ce564433fa8b722",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "7031e0f354081c25",
+  "lastOpenFiles": [
+    "studyNotes/CountDownLatch.md",
+    "1.md",
+    "studyNotes/spring事物传播.md",
+    "studyNotes/AbstractQueuedSynchronizer.md",
+    "studyNotes/CyclicBarrier.md",
+    "plan/2024-04-08.md",
+    "2024-04-07.md",
+    "plan/2024-04-09.md",
+    "plan/20240408.md",
+    "未命名看板.md",
+    "2024-04-13.md",
+    "2024-04-14.md",
+    "2024-04-12.md",
+    "2024-04-11.md",
+    "2024-04-10.md",
+    "plan",
+    "studyNotes/类加载器.md",
+    "studyNotes/kafka.md",
+    "templates/template.md",
+    "MyFilename 3.md",
+    "MyFilename 2.md",
+    "MyFilename 1.md",
+    "studyNotes/sql.md",
+    "tes/未命名.md",
+    "studyNotes",
+    "tes/未命名 1.md",
+    "templates/end.md",
+    "js/save.js",
+    "MyFilename 4.md",
+    "js/未命名文件夹",
+    "js",
+    "tes",
+    "templates"
+  ]
+}

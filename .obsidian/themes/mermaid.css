@@ -1,0 +1,44 @@
+/* 基础节点样式 */
+.mermaid .node {
+    stroke: #4a4a4a; /* 边框颜色 */
+    fill: #ffffff; /* 背景颜色 */
+}
+
+/* 节点文字样式 */
+.mermaid .node text {
+    fill: #333333; /* 文字颜色 */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; /* 字体 */
+    font-size: 16px; /* 字体大小 */
+}
+
+/* 线条样式 */
+.mermaid .edgePath .path {
+    stroke: #4a4a4a; /* 线条颜色 */
+    stroke-width: 2px; /* 线条宽度 */
+}
+
+/* 箭头样式 */
+.mermaid .edgePath .path {
+    fill: none;
+}
+
+/* 连接点样式 */
+.mermaid .edge-marker {
+    fill: #4a4a4a; /* 箭头颜色 */
+}
+
+/* 激活的线条样式（例如，鼠标悬停时） */
+.mermaid .edgePath .path:hover {
+    stroke: #1f6feb; /* 线条颜色改变 */
+}
+
+/* 标签样式 */
+.mermaid .label {
+    color: #333333; /* 文字颜色 */
+}
+
+/* 标签文字样式 */
+.mermaid .label text {
+    fill: #333333; /* 文字颜色 */
+}
+
