@@ -1,4 +1,7 @@
 {
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "useMarkdownLinks": true
 }
