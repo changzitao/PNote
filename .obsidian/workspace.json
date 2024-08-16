@@ -8,12 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7031e0f354081c25",
+            "id": "2bf045cd6c6cf711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "studyNotes/缓存层架构.md",
+                "file": "studyNotes/大key大value处理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fdb1392c88bcd56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "9eed56b9c82eec0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "studyNotes/缓存层架构.md",
+                "file": "studyNotes/大key大value处理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "studyNotes/缓存层架构.md",
+                "file": "studyNotes/大key大value处理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "studyNotes/缓存层架构.md"
+                "file": "studyNotes/大key大value处理.md"
               }
             }
           },
@@ -150,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,36 +189,39 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "7031e0f354081c25",
+  "active": "2bf045cd6c6cf711",
   "lastOpenFiles": [
-    "1.md",
-    "studyNotes/缓存层架构.md",
-    "studyNotes/类加载器.md",
-    "plan/2024-04-08.md",
-    "2024-04-09.md",
-    "studyNotes/spring事物传播.md",
+    "studyNotes的替身",
+    "Pasted image 20240816163639.png",
     "studyNotes/kafka.md",
-    "studyNotes/CyclicBarrier.md",
+    "studyNotes/大key大value处理.md",
+    "studyNotes/spring事物传播.md",
+    "studyNotes/ThreadLocal.md",
+    "studyNotes/类加载器.md",
+    "studyNotes/缓存层架构.md",
+    "studyNotes/高并发IO.md",
     "studyNotes/CountDownLatch.md",
+    "未命名.md",
+    "studyNotes/未命名.md",
+    "studyNotes/分布式锁.md",
+    "studyNotes/Future Promise-Listener订阅模型.md",
+    "studyNotes/CyclicBarrier.md",
+    "Pasted image 20240507173037.png",
+    "studyNotes/策略模式.md",
+    "studyNotes/sql.md",
     "studyNotes/AbstractQueuedSynchronizer.md",
+    "studyNotes/你的灯亮着吗.md",
+    "2024-04-29.md",
+    "Excalidraw/Drawing 2024-04-10 20.30.04.excalidraw.md",
+    "Excalidraw",
+    "plan/2024-04-08.md",
+    "1.md",
+    "2024-04-09.md",
     "2024-04-07.md",
     "plan/2024-04-09.md",
     "plan/20240408.md",
-    "未命名看板.md",
-    "2024-04-13.md",
-    "2024-04-14.md",
-    "2024-04-12.md",
-    "2024-04-11.md",
-    "2024-04-10.md",
     "plan",
-    "templates/template.md",
-    "MyFilename 3.md",
-    "MyFilename 2.md",
-    "MyFilename 1.md",
-    "studyNotes/sql.md",
-    "tes/未命名.md",
     "studyNotes",
-    "tes/未命名 1.md",
     "js/save.js",
     "js/未命名文件夹",
     "js",
