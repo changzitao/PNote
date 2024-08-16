@@ -11,11 +11,9 @@
             "id": "2bf045cd6c6cf711",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "studyNotes/大key大value处理.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-10 20.30.04.excalidraw.md"
               }
             }
           },
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "studyNotes/大key大value处理.md",
+                "file": "Excalidraw/Drawing 2024-04-10 20.30.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "studyNotes/大key大value处理.md",
+                "file": "Excalidraw/Drawing 2024-04-10 20.30.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "studyNotes/大key大value处理.md"
+                "file": "Excalidraw/Drawing 2024-04-10 20.30.04.excalidraw.md"
               }
             }
           },
@@ -191,10 +189,10 @@
   },
   "active": "2bf045cd6c6cf711",
   "lastOpenFiles": [
+    "studyNotes/大key大value处理.md",
     "studyNotes的替身",
     "Pasted image 20240816163639.png",
     "studyNotes/kafka.md",
-    "studyNotes/大key大value处理.md",
     "studyNotes/spring事物传播.md",
     "studyNotes/ThreadLocal.md",
     "studyNotes/类加载器.md",
